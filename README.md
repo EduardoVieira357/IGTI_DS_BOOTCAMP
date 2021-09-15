@@ -1,4 +1,3 @@
-# IGTI_MONGODB
+# Data Scientist Bootcamp - IGTI
 Python, R and MongoDB.
 
-Bootcamp Data Scientist - IGTI
